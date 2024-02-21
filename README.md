@@ -1,5 +1,3 @@
-# CS-50-Final-Project
-Sorting Algorithms Tracer in C By Mahmoud Atef
 # Sorting_Algorithms_Tracer_in_C
 
 ## Video Demo:  <https://youtu.be/j3IG25K1pNE>
